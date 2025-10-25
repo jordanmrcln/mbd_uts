@@ -32,4 +32,3 @@ Proyek ini dikembangkan menggunakan kombinasi beberapa *tools* dan teknologi ber
 
 ## Struktur Repositori
 
-*(Anda bisa menambahkan bagian ini untuk menjelaskan struktur folder proyek jika diperlukan.)*
